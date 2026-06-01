@@ -1,5 +1,5 @@
 # ============================================================
-# Active Directory Administration Tool
+# Active Directory Administration Tool - V1.16.0
 # Author  : Hugo Brito
 # Company : GFL
 # ============================================================
