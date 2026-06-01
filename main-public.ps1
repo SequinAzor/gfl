@@ -402,7 +402,7 @@ function Reset-AndUnlockUser {
 
 function Show-MainMenu {
     Clear-Host
-    Write-Header "ACTIVE DIRECTORY ADMINISTRATION TOOL"
+    Write-Header "ACTIVE DIRECTORY ADMINISTRATION TOOL - v1.16.0"
 
     Write-Host ""
     Write-Host "  USER SEARCH"
