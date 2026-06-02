@@ -1,5 +1,5 @@
 # ============================================================
-# Active Directory Administration Tool
+# Active Directory Administration Tool - V1.16.0
 # Author  : Hugo Brito
 # Company : GFL
 # ============================================================
@@ -402,7 +402,7 @@ function Reset-AndUnlockUser {
 
 function Show-MainMenu {
     Clear-Host
-    Write-Header "ACTIVE DIRECTORY ADMINISTRATION TOOL"
+    Write-Header "ACTIVE DIRECTORY ADMINISTRATION TOOL - V1.16.0"
 
     Write-Host ""
     Write-Host "  USER SEARCH"
